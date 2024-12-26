@@ -1,0 +1,25 @@
+body{
+    background-color: #003262;
+    font-family: Schibsted Grotesk;
+}
+.navbar-collapse{
+    font-weight: 600;
+    font-size: 16px;
+}
+.nav-link{
+    color: #ffffff !important;
+}
+.mainhedr{
+    
+font-size: 96px;
+font-weight: 600;
+line-height: 118.5px;
+color: #ffffff;
+margin-top: 160px;
+}
+.conimg{
+    margin-top: 240px;
+    margin-left: 80px;
+    height: 120px;
+    width: 120px;
+}
